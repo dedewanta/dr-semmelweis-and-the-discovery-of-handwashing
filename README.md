@@ -16,7 +16,6 @@ This repository contains the following files:
 - `README.md`: The current document providing an overview of the project.
 - `notebook.ipynb`: Jupyter Notebook file containing the Python code, data analysis, and visualizations for the project.
 - `datasets/`: Directory containing the dataset files used in the analysis.
-- `images/`: Directory containing images of plots and visualizations generated during the analysis.
 
 ## Contact Information
 
